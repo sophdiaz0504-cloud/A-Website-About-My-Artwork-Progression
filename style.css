@@ -1,0 +1,47 @@
+body {
+  background-color: #E9EDFB;
+   margin: 0.5rem;
+   padding: 0.5rem;
+}
+
+header {
+  background-color: #738DE7;
+   border-radius: 20px;
+   display: flex;  /* Use Flexbox */
+   justify-content: space-between; /* Push heading left, nav right */
+   align-items: center;         
+   padding: 20px 35px; 
+  
+}
+  
+h1 {
+  color: #1E3EB3;
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-style: italic;
+  font-size: 40px;
+  font-weight: 900;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 10px 20px;
+  display: flex;   /* Horizontal menu */         
+}
+
+nav a {
+  background-color: #E9EDFB;
+  border-radius: 20px;
+  font-size: 25px;
+  margin: 0.5rem;
+  padding: 0.5rem;
+  
+}
+.nav a:hover {
+  ransform: scale(1.1);
+  box-shadow: 0 0 20px rgba(255, 117, 24, 0.9);
+}
+
+
+
