@@ -6,6 +6,11 @@ family-font: serif;
 margin: 0.7rem;  
 padding: 0.5rem;  
 } 
+body { background: white; color: black; 
+     }
+body.dark { 
+ background: #121212; color: white;
+}
 
 header {  
 background-color: #738DE7;  
