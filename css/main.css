@@ -256,6 +256,13 @@ form {
   text-align: left; 
 }
 
+.RealLogo-img {
+ border-radius: 30px;
+ margin-bottom: 2rem;
+ margin-left: 1rem;
+ margin-right: 1rem;
+}
+
 footer {
   color: #1E3EB3;
   font-family: "Nunito", sans-serif;
